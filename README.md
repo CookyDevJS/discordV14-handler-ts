@@ -17,7 +17,7 @@ This is a template for a Discord bot v14 handler using TypeScript. It is a start
 
 **1.** Clone the repository:
 ```bash
-git clone https://github.com/CookyDevJS/discordjs-v14-handler-ts
+git clone https://github.com/CookyDevJS/discordV14-handler-ts
 ```
 **2.** Install the necessary dependencies by running the command `npm install`.
 
