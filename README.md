@@ -2,7 +2,7 @@
 
 This is a template for a Discord bot v14 handler using TypeScript. It is a starting point for building a bot that supports prefix commands and slash commands. Offering a strongly-typed, object-oriented approach to building the bot. Whether you're new to Discord bot development or looking to switch to TypeScript, this repository is a great starting point.
 
-> **YOU CAN HELP ME BY INVITING MY BOT :D [Clic Here](https://redes.srcooky.tk)**
+> **You can help with join this server [Clic Here](https://redes.srcooky.tk)**
 
 ## Features
 
