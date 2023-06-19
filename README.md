@@ -43,4 +43,4 @@ MONGO_DATABASE_NAME=
 ```
 **4.** Compile the TypeScript code: Run `npx tsc` (or what you use for Build the project using the typescript module) to compile the TypeScript code into JavaScript.
 
-**5.** start the bot using the `npm start` command ()
+**5.** start the bot using the `npm start` command
